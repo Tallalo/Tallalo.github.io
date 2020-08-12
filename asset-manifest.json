@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.558c1ccc.chunk.css",
-    "main.js": "/static/js/main.2cbd360a.chunk.js",
-    "main.js.map": "/static/js/main.2cbd360a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.8a6893a1.chunk.js": "/static/js/2.8a6893a1.chunk.js",
-    "static/js/2.8a6893a1.chunk.js.map": "/static/js/2.8a6893a1.chunk.js.map",
+    "main.css": "/static/css/main.2b25e4fa.chunk.css",
+    "main.js": "/static/js/main.d7ea6f1b.chunk.js",
+    "main.js.map": "/static/js/main.d7ea6f1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
+    "static/js/2.61088623.chunk.js": "/static/js/2.61088623.chunk.js",
+    "static/js/2.61088623.chunk.js.map": "/static/js/2.61088623.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5540a662be21ede6bb1a1c4fc4fbc431.js": "/precache-manifest.5540a662be21ede6bb1a1c4fc4fbc431.js",
+    "precache-manifest.0ef391abd1d8a752eedfc5d3a34cd1c2.js": "/precache-manifest.0ef391abd1d8a752eedfc5d3a34cd1c2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.558c1ccc.chunk.css.map": "/static/css/main.558c1ccc.chunk.css.map",
-    "static/media/App.css": "/static/media/contact-blue-logo.0b1deaf4.png",
-    "static/media/arrowDown.svg": "/static/media/arrowDown.9fa1a771.svg",
-    "static/media/arrowUp.svg": "/static/media/arrowUp.168c0f23.svg",
-    "static/media/envelop.svg": "/static/media/envelop.413d3a3a.svg",
-    "static/media/logo.svg": "/static/media/logo.6cd9efa2.svg",
-    "static/media/phoneIcon.svg": "/static/media/phoneIcon.8a96d288.svg"
-  }
+    "static/css/main.2b25e4fa.chunk.css.map": "/static/css/main.2b25e4fa.chunk.css.map",
+    "static/js/2.61088623.chunk.js.LICENSE.txt": "/static/js/2.61088623.chunk.js.LICENSE.txt",
+    "static/media/EnvelopeClosed.svg": "/static/media/EnvelopeClosed.7e741a91.svg",
+    "static/media/EnvelopeOpen.svg": "/static/media/EnvelopeOpen.b9701992.svg",
+    "static/media/index.css": "/static/media/Roboto-Thin.89e2666c.ttf",
+    "static/media/TelephonePicked.svg": "/static/media/TelephonePicked.eeadbd17.svg",
+    "static/media/TelephonePut.svg": "/static/media/TelephonePut.31624042.svg",
+    "static/media/logo.svg": "/static/media/logo.31c92dff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c5b4be.js",
+    "static/js/2.61088623.chunk.js",
+    "static/css/main.2b25e4fa.chunk.css",
+    "static/js/main.d7ea6f1b.chunk.js"
+  ]
 }
