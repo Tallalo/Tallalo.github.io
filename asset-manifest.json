@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b25e4fa.chunk.css",
-    "main.js": "/static/js/main.d7ea6f1b.chunk.js",
-    "main.js.map": "/static/js/main.d7ea6f1b.chunk.js.map",
+    "main.css": "/static/css/main.dc957c3a.chunk.css",
+    "main.js": "/static/js/main.ffe81d96.chunk.js",
+    "main.js.map": "/static/js/main.ffe81d96.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
     "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
-    "static/js/2.61088623.chunk.js": "/static/js/2.61088623.chunk.js",
-    "static/js/2.61088623.chunk.js.map": "/static/js/2.61088623.chunk.js.map",
+    "static/js/2.22e15ced.chunk.js": "/static/js/2.22e15ced.chunk.js",
+    "static/js/2.22e15ced.chunk.js.map": "/static/js/2.22e15ced.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0ef391abd1d8a752eedfc5d3a34cd1c2.js": "/precache-manifest.0ef391abd1d8a752eedfc5d3a34cd1c2.js",
+    "precache-manifest.3aabb135dc9b523f49db3cfe3a32272e.js": "/precache-manifest.3aabb135dc9b523f49db3cfe3a32272e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2b25e4fa.chunk.css.map": "/static/css/main.2b25e4fa.chunk.css.map",
-    "static/js/2.61088623.chunk.js.LICENSE.txt": "/static/js/2.61088623.chunk.js.LICENSE.txt",
+    "static/css/main.dc957c3a.chunk.css.map": "/static/css/main.dc957c3a.chunk.css.map",
+    "static/js/2.22e15ced.chunk.js.LICENSE.txt": "/static/js/2.22e15ced.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Roboto-Thin.89e2666c.ttf",
     "static/media/EnvelopeClosed.svg": "/static/media/EnvelopeClosed.7e741a91.svg",
     "static/media/EnvelopeOpen.svg": "/static/media/EnvelopeOpen.b9701992.svg",
-    "static/media/index.css": "/static/media/Roboto-Thin.89e2666c.ttf",
     "static/media/TelephonePicked.svg": "/static/media/TelephonePicked.eeadbd17.svg",
     "static/media/TelephonePut.svg": "/static/media/TelephonePut.31624042.svg",
-    "static/media/logo.svg": "/static/media/logo.31c92dff.svg"
+    "static/media/logo.svg": "/static/media/logo.31c92dff.svg",
+    "static/media/theory_docs.jpg": "/static/media/theory_docs.fbc6c7ec.jpg",
+    "static/media/theory_pats.jpg": "/static/media/theory_pats.06c8aef4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8c5b4be.js",
-    "static/js/2.61088623.chunk.js",
-    "static/css/main.2b25e4fa.chunk.css",
-    "static/js/main.d7ea6f1b.chunk.js"
+    "static/js/2.22e15ced.chunk.js",
+    "static/css/main.dc957c3a.chunk.css",
+    "static/js/main.ffe81d96.chunk.js"
   ]
 }

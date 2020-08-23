@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b0b3556f8ac030b6da0062de19bb99",
+    "revision": "37e3d1e6af859b58b2faf732579ea716",
     "url": "/index.html"
   },
   {
-    "revision": "55f174b73393d87ac815",
-    "url": "/static/css/main.2b25e4fa.chunk.css"
+    "revision": "7a0542dae9eea8bb1529",
+    "url": "/static/css/main.dc957c3a.chunk.css"
   },
   {
-    "revision": "2efec73629e37f7e1f4f",
-    "url": "/static/js/2.61088623.chunk.js"
+    "revision": "c79b15e7982aa5a707e2",
+    "url": "/static/js/2.22e15ced.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.61088623.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.22e15ced.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55f174b73393d87ac815",
-    "url": "/static/js/main.d7ea6f1b.chunk.js"
+    "revision": "7a0542dae9eea8bb1529",
+    "url": "/static/js/main.ffe81d96.chunk.js"
   },
   {
     "revision": "415e9bcf6c081ea50565",
     "url": "/static/js/runtime-main.f8c5b4be.js"
+  },
+  {
+    "revision": "aabeb5f323e897e9744360dcb0d1f9db",
+    "url": "/static/media/Babuka.aabeb5f3.ttf"
   },
   {
     "revision": "7e741a91728571a477b600e106920b29",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8faba3db5e37f5f5e3bb9e10cb6a74aa",
     "url": "/static/media/Gotham-Black-Regular.8faba3db.ttf"
+  },
+  {
+    "revision": "b5ecd353aaf33f5a4e6f47ba4866ed54",
+    "url": "/static/media/Mtavruli.b5ecd353.otf"
   },
   {
     "revision": "ee7b96fa85d8fdb8c126409326ac2d2b",
@@ -66,5 +74,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31c92dffc4889705bebe46907863216d",
     "url": "/static/media/logo.31c92dff.svg"
+  },
+  {
+    "revision": "fbc6c7ec8586cf939e7c61ee18777a74",
+    "url": "/static/media/theory_docs.fbc6c7ec.jpg"
+  },
+  {
+    "revision": "06c8aef4e37d46d84a42f3029cf22a0b",
+    "url": "/static/media/theory_pats.06c8aef4.jpg"
   }
 ]);
